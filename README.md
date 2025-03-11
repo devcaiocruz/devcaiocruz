@@ -16,7 +16,7 @@
 
 ## 📚 Education
 - **FATEC, São Paulo** — Systems Analysis and Development (2023 - Present)
-- **FIAP, São Paulo** — Systems Analysis and Development (2019 - 2021, Trancado)
+- **FIAP, São Paulo** — Systems Analysis and Development
 - **IFSP, Guarulhos** — Industrial Automation (2019 - 2020)
 - **SENAI, Guarulhos** — Mechanical Machining (2017 - 2018)
 
